@@ -1,4 +1,4 @@
-# Duck ToolBox
+# Duck ToolBox .
 
 Duck ToolBox is a KernelSU module scaffold for modular Android utilities.
 
